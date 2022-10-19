@@ -1,0 +1,594 @@
+vibrant bronze boxes contain 3 dim olive boxes.
+shiny teal boxes contain 1 posh green box, 5 pale indigo boxes, 1 mirrored purple box.
+striped aqua boxes contain 5 bright orange boxes.
+clear chartreuse boxes contain 3 dotted black boxes, 2 wavy olive boxes.
+light lime boxes contain 1 posh silver box, 5 clear orange boxes, 2 light olive boxes, 3 dull maroon boxes.
+light olive boxes contain 4 striped turquoise boxes.
+shiny purple boxes contain 2 posh silver boxes, 3 striped silver boxes, 5 shiny beige boxes, 2 plaid chartreuse boxes.
+mirrored crimson boxes contain 2 faded cyan boxes.
+shiny turquoise boxes contain 5 dull purple boxes.
+dim red boxes contain 2 dim salmon boxes, 2 faded orange boxes, 5 muted aqua boxes.
+vibrant yellow boxes contain 5 mirrored white boxes, 5 vibrant blue boxes, 3 mirrored lavender boxes, 1 wavy cyan box.
+posh salmon boxes contain 1 dull black box, 1 striped indigo box, 1 muted silver box, 2 vibrant crimson boxes.
+pale black boxes contain 1 plaid cyan box.
+dotted salmon boxes contain 3 wavy brown boxes, 3 pale coral boxes, 1 light maroon box.
+posh orange boxes contain 5 muted green boxes, 3 striped violet boxes.
+dull maroon boxes contain 2 clear brown boxes, 5 posh silver boxes, 5 mirrored coral boxes, 2 dim lavender boxes.
+bright lavender boxes contain 3 dark chartreuse boxes, 1 mirrored chartreuse box, 2 striped orange boxes, 4 striped bronze boxes.
+plaid white boxes contain 2 pale aqua boxes.
+posh teal boxes contain 1 muted crimson box, 2 dark fuchsia boxes, 2 dim black boxes, 4 plaid cyan boxes.
+wavy maroon boxes contain 2 dull magenta boxes, 3 dark red boxes, 5 dull green boxes, 4 bright turquoise boxes.
+plaid teal boxes contain 5 plaid plum boxes, 3 light magenta boxes.
+plaid plum boxes contain 3 striped lime boxes, 5 clear maroon boxes, 3 muted plum boxes.
+muted purple boxes contain 5 muted fuchsia boxes, 4 pale tomato boxes.
+dark gold boxes contain 5 dim lime boxes, 3 clear orange boxes, 4 drab crimson boxes, 1 faded cyan box.
+striped coral boxes contain 4 pale aqua boxes, 5 clear silver boxes.
+shiny chartreuse boxes contain 1 muted plum box, 3 vibrant tomato boxes.
+bright salmon boxes contain 5 pale gold boxes, 1 muted gold box, 5 dark gray boxes, 4 dull cyan boxes.
+dark crimson boxes contain 1 plaid turquoise box.
+light coral boxes contain 1 muted brown box, 2 striped black boxes, 5 dark gray boxes.
+dotted lavender boxes contain 1 bright turquoise box.
+posh red boxes contain 2 muted green boxes.
+dim turquoise boxes contain 4 dull chartreuse boxes.
+posh lime boxes contain 5 mirrored yellow boxes, 1 striped silver box.
+wavy black boxes contain 5 striped cyan boxes, 4 wavy red boxes, 2 dotted coral boxes.
+dotted brown boxes contain 1 dim gray box, 1 plaid tomato box.
+mirrored red boxes contain 4 posh aqua boxes, 4 dark gray boxes, 5 dark turquoise boxes.
+plaid tan boxes contain 4 plaid black boxes, 4 dull fuchsia boxes, 1 plaid plum box, 3 dark chartreuse boxes.
+plaid bronze boxes contain 2 muted lavender boxes, 3 faded cyan boxes, 3 mirrored chartreuse boxes, 1 dull coral box.
+mirrored silver boxes contain 3 dull bronze boxes, 3 dim tomato boxes.
+shiny fuchsia boxes contain 3 bright maroon boxes, 1 vibrant tomato box, 4 posh bronze boxes, 1 striped bronze box.
+dotted plum boxes contain 5 wavy fuchsia boxes.
+dim bronze boxes contain 3 shiny red boxes, 5 dotted chartreuse boxes.
+faded crimson boxes contain 3 bright olive boxes, 1 dark bronze box, 5 drab crimson boxes.
+striped blue boxes contain 4 drab blue boxes.
+posh purple boxes contain 1 bright blue box, 4 light black boxes, 1 dotted violet box.
+shiny lavender boxes contain 4 mirrored bronze boxes.
+dull beige boxes contain 2 wavy chartreuse boxes.
+dim blue boxes contain 1 bright magenta box, 5 muted red boxes.
+pale yellow boxes contain 1 dotted white box.
+mirrored blue boxes contain 3 striped tan boxes.
+mirrored turquoise boxes contain 2 plaid red boxes, 5 muted red boxes, 2 muted green boxes.
+faded fuchsia boxes contain 3 wavy tomato boxes, 1 vibrant red box, 1 dotted green box, 2 posh plum boxes.
+drab silver boxes contain 2 muted fuchsia boxes, 4 dotted gray boxes, 4 dotted aqua boxes.
+clear teal boxes contain 5 shiny maroon boxes, 1 clear green box.
+dim brown boxes contain 4 faded lavender boxes, 5 striped lime boxes, 1 dark aqua box, 1 dark fuchsia box.
+muted beige boxes contain 1 dim aqua box, 4 plaid plum boxes, 3 light white boxes, 4 muted cyan boxes.
+muted blue boxes contain 2 bright blue boxes.
+vibrant turquoise boxes contain 3 muted crimson boxes.
+mirrored indigo boxes contain 2 wavy lime boxes, 5 bright olive boxes, 5 bright black boxes, 5 vibrant violet boxes.
+posh tomato boxes contain 4 muted orange boxes, 3 plaid white boxes, 3 shiny tomato boxes, 3 light beige boxes.
+bright gray boxes contain 5 pale aqua boxes, 3 shiny gold boxes, 1 clear olive box, 1 dull fuchsia box.
+pale green boxes contain 4 light black boxes, 3 posh purple boxes, 2 clear chartreuse boxes, 2 drab lime boxes.
+light orange boxes contain 5 shiny chartreuse boxes, 2 wavy blue boxes, 2 wavy yellow boxes.
+light green boxes contain 5 dark bronze boxes, 4 light tan boxes, 4 dim chartreuse boxes.
+shiny indigo boxes contain 3 faded cyan boxes.
+dotted orange boxes contain 2 wavy crimson boxes, 3 dull green boxes, 5 dark indigo boxes.
+dotted black boxes contain 2 vibrant white boxes.
+plaid gold boxes contain 3 mirrored bronze boxes, 5 striped tan boxes.
+muted salmon boxes contain 5 dull maroon boxes, 1 vibrant tan box, 1 dim purple box, 4 dull chartreuse boxes.
+plaid salmon boxes contain 5 dotted purple boxes, 5 dim orange boxes.
+bright crimson boxes contain 3 plaid maroon boxes, 2 dim aqua boxes, 5 dull magenta boxes, 5 pale tomato boxes.
+dotted fuchsia boxes contain 1 dark cyan box, 1 striped magenta box, 3 clear coral boxes, 4 light purple boxes.
+dull blue boxes contain 5 dim magenta boxes, 1 mirrored maroon box, 5 dark indigo boxes.
+dull orange boxes contain 3 drab blue boxes, 1 shiny beige box.
+muted red boxes contain 5 clear brown boxes, 5 striped turquoise boxes, 3 dull fuchsia boxes.
+shiny coral boxes contain 5 dark olive boxes, 5 light blue boxes.
+drab violet boxes contain 5 clear chartreuse boxes, 2 posh orange boxes, 3 pale purple boxes.
+clear blue boxes contain 4 dull fuchsia boxes, 4 faded purple boxes, 3 mirrored plum boxes.
+vibrant beige boxes contain 2 posh silver boxes.
+bright bronze boxes contain 1 shiny yellow box, 5 muted green boxes, 3 dark gray boxes.
+bright orange boxes contain no other boxes.
+light teal boxes contain 3 mirrored magenta boxes, 5 faded gray boxes.
+dark green boxes contain 4 drab white boxes, 2 drab green boxes, 5 dotted coral boxes, 1 mirrored black box.
+plaid silver boxes contain 2 dotted bronze boxes.
+drab turquoise boxes contain 3 bright white boxes, 3 drab maroon boxes.
+dim magenta boxes contain 5 dark fuchsia boxes, 2 drab teal boxes, 2 drab crimson boxes, 2 dull fuchsia boxes.
+pale coral boxes contain no other boxes.
+dull indigo boxes contain 2 bright black boxes, 1 drab lime box, 5 light magenta boxes, 1 faded orange box.
+dim indigo boxes contain 5 dark maroon boxes.
+shiny gold boxes contain 5 light black boxes, 3 mirrored yellow boxes, 5 muted plum boxes.
+faded lime boxes contain 5 dark crimson boxes, 3 shiny orange boxes, 5 plaid tomato boxes, 4 mirrored cyan boxes.
+faded cyan boxes contain 3 shiny gold boxes.
+striped olive boxes contain 4 vibrant red boxes.
+wavy white boxes contain 5 posh silver boxes, 5 mirrored gold boxes, 5 pale black boxes.
+dim plum boxes contain 5 dotted plum boxes, 2 clear silver boxes, 2 wavy bronze boxes.
+drab cyan boxes contain 2 muted plum boxes, 2 dotted bronze boxes, 3 posh violet boxes.
+clear bronze boxes contain 1 clear plum box, 5 striped plum boxes.
+posh gray boxes contain 5 clear chartreuse boxes.
+striped brown boxes contain 3 dim olive boxes, 1 light black box, 4 vibrant crimson boxes, 2 striped fuchsia boxes.
+wavy tomato boxes contain 2 mirrored chartreuse boxes.
+dull white boxes contain 1 mirrored brown box, 2 dull green boxes.
+vibrant green boxes contain 4 drab fuchsia boxes.
+dark tomato boxes contain 3 light gray boxes, 2 dull cyan boxes, 4 striped silver boxes, 5 dark fuchsia boxes.
+dim tomato boxes contain 2 dark turquoise boxes, 1 mirrored black box, 3 posh maroon boxes.
+bright gold boxes contain 5 pale aqua boxes, 3 clear tomato boxes, 1 dark yellow box, 1 drab green box.
+dotted indigo boxes contain 5 light purple boxes, 2 plaid coral boxes, 5 pale green boxes.
+plaid magenta boxes contain 1 dotted bronze box, 3 drab turquoise boxes, 1 dark lime box.
+drab gray boxes contain 3 dark gray boxes, 5 clear turquoise boxes.
+dim gold boxes contain 5 dark maroon boxes.
+dark black boxes contain 5 dark violet boxes, 2 dotted cyan boxes.
+posh chartreuse boxes contain 2 posh magenta boxes, 2 striped lime boxes.
+wavy beige boxes contain 3 drab olive boxes, 2 shiny beige boxes, 1 faded purple box.
+plaid green boxes contain 5 pale olive boxes, 5 posh bronze boxes, 4 bright tomato boxes.
+dotted blue boxes contain 3 posh silver boxes.
+shiny cyan boxes contain 1 mirrored turquoise box, 1 striped beige box, 5 bright silver boxes, 3 light olive boxes.
+dark aqua boxes contain 1 plaid black box, 3 posh coral boxes, 4 striped magenta boxes, 2 mirrored turquoise boxes.
+drab salmon boxes contain 2 striped bronze boxes.
+posh brown boxes contain 3 bright white boxes.
+mirrored chartreuse boxes contain 5 posh lime boxes, 4 bright blue boxes, 4 clear brown boxes, 3 bright orange boxes.
+clear red boxes contain 1 plaid beige box, 2 posh brown boxes, 2 shiny aqua boxes.
+wavy olive boxes contain 4 clear maroon boxes, 1 striped silver box.
+faded green boxes contain 4 plaid red boxes, 3 dim olive boxes.
+clear purple boxes contain 1 plaid olive box, 3 light chartreuse boxes.
+dull lime boxes contain 4 dark tan boxes, 1 light chartreuse box, 5 vibrant silver boxes.
+dark red boxes contain 5 faded orange boxes.
+wavy plum boxes contain 5 dull teal boxes, 3 clear maroon boxes, 3 shiny tan boxes.
+dark white boxes contain 3 muted red boxes.
+light turquoise boxes contain 3 light black boxes.
+pale fuchsia boxes contain 3 dim brown boxes, 5 clear purple boxes.
+light maroon boxes contain 3 mirrored turquoise boxes.
+striped fuchsia boxes contain 1 dotted aqua box.
+mirrored magenta boxes contain 5 striped white boxes, 4 striped violet boxes, 4 dull maroon boxes, 5 striped indigo boxes.
+dark violet boxes contain 2 mirrored black boxes, 5 dotted fuchsia boxes, 3 muted fuchsia boxes.
+muted cyan boxes contain 3 muted salmon boxes, 4 drab black boxes, 2 posh green boxes.
+muted tan boxes contain 4 posh coral boxes, 2 bright fuchsia boxes.
+faded aqua boxes contain 5 striped magenta boxes, 1 dim aqua box.
+bright tomato boxes contain 2 muted green boxes, 1 light olive box.
+clear silver boxes contain 4 wavy cyan boxes, 3 bright orange boxes, 5 mirrored coral boxes, 3 light olive boxes.
+vibrant chartreuse boxes contain 4 light gray boxes.
+dull olive boxes contain 1 mirrored lavender box, 4 dotted coral boxes, 4 pale chartreuse boxes, 1 dull coral box.
+pale gray boxes contain 3 plaid orange boxes.
+wavy lime boxes contain 1 bright orange box, 2 wavy yellow boxes, 2 light purple boxes, 4 wavy indigo boxes.
+faded white boxes contain 1 dotted violet box, 1 dark maroon box, 3 posh coral boxes.
+muted white boxes contain 3 faded magenta boxes.
+wavy brown boxes contain 4 vibrant yellow boxes, 4 dull lavender boxes.
+clear violet boxes contain 5 shiny tan boxes.
+clear olive boxes contain 3 bright fuchsia boxes, 5 dark maroon boxes, 4 mirrored white boxes, 5 shiny beige boxes.
+light beige boxes contain 4 mirrored gray boxes, 2 wavy brown boxes, 3 pale blue boxes, 4 striped silver boxes.
+plaid turquoise boxes contain 1 vibrant aqua box, 4 bright fuchsia boxes.
+posh coral boxes contain 3 dark tomato boxes.
+wavy red boxes contain 5 posh gray boxes, 3 dim lime boxes, 2 light tan boxes, 3 bright blue boxes.
+wavy fuchsia boxes contain 5 vibrant aqua boxes.
+faded turquoise boxes contain 2 dark maroon boxes, 1 pale indigo box, 4 faded white boxes.
+clear indigo boxes contain 4 pale purple boxes, 5 dull green boxes, 1 bright olive box.
+vibrant lime boxes contain 1 light purple box, 5 posh bronze boxes, 5 drab blue boxes, 1 bright black box.
+shiny bronze boxes contain 1 plaid red box.
+vibrant plum boxes contain 1 wavy black box, 4 drab aqua boxes, 5 dark cyan boxes.
+mirrored fuchsia boxes contain 5 bright olive boxes, 4 mirrored crimson boxes, 1 dim salmon box.
+bright fuchsia boxes contain 4 light gray boxes.
+bright silver boxes contain 5 striped tan boxes.
+dotted gray boxes contain 1 striped silver box, 5 bright black boxes, 2 mirrored yellow boxes.
+dark olive boxes contain 5 striped lime boxes, 1 bright black box.
+light lavender boxes contain 1 dark bronze box, 2 faded gold boxes, 3 light orange boxes.
+mirrored green boxes contain 2 faded orange boxes.
+faded blue boxes contain 2 drab coral boxes, 3 posh salmon boxes.
+vibrant red boxes contain 3 bright cyan boxes, 4 light aqua boxes, 4 posh gray boxes, 5 wavy purple boxes.
+dotted yellow boxes contain 3 mirrored tan boxes, 1 clear crimson box, 3 light turquoise boxes.
+clear orange boxes contain 4 pale coral boxes, 3 posh silver boxes, 2 dull fuchsia boxes.
+pale violet boxes contain 5 light crimson boxes.
+mirrored beige boxes contain 5 bright coral boxes.
+shiny tomato boxes contain 4 dotted red boxes, 2 plaid lavender boxes, 5 dim orange boxes.
+muted bronze boxes contain 3 striped tan boxes, 3 faded orange boxes, 2 faded maroon boxes, 3 clear tomato boxes.
+muted fuchsia boxes contain 1 dark maroon box, 2 dotted bronze boxes, 4 mirrored bronze boxes, 1 faded cyan box.
+mirrored orange boxes contain 2 plaid cyan boxes, 5 wavy orange boxes, 5 shiny aqua boxes, 5 wavy tan boxes.
+light blue boxes contain 1 mirrored chartreuse box, 3 dim crimson boxes.
+bright turquoise boxes contain 2 clear orange boxes.
+dark plum boxes contain 3 wavy lime boxes, 1 light tan box, 3 light silver boxes, 1 light lime box.
+wavy cyan boxes contain 4 dull coral boxes, 4 light olive boxes.
+striped cyan boxes contain 4 dull lavender boxes.
+drab purple boxes contain 4 shiny tomato boxes, 4 bright orange boxes, 4 mirrored gold boxes.
+faded indigo boxes contain 5 mirrored indigo boxes, 2 muted silver boxes, 5 faded lime boxes, 4 dim salmon boxes.
+faded orange boxes contain 5 plaid chartreuse boxes, 4 bright black boxes, 5 light magenta boxes, 4 wavy bronze boxes.
+wavy gold boxes contain 1 shiny orange box, 3 clear salmon boxes, 3 plaid orange boxes, 4 vibrant tan boxes.
+wavy blue boxes contain 3 clear brown boxes, 1 faded tomato box, 5 drab green boxes.
+plaid violet boxes contain 1 light blue box, 5 drab purple boxes.
+wavy tan boxes contain 4 dotted blue boxes.
+drab plum boxes contain 2 muted silver boxes, 5 shiny maroon boxes.
+drab fuchsia boxes contain 2 muted maroon boxes, 2 mirrored turquoise boxes, 5 clear green boxes, 3 light olive boxes.
+light violet boxes contain 4 clear turquoise boxes, 4 mirrored gold boxes, 2 wavy chartreuse boxes, 2 mirrored tan boxes.
+shiny maroon boxes contain 1 plaid salmon box, 4 pale brown boxes, 1 dim orange box, 1 wavy tomato box.
+drab crimson boxes contain 2 dim gray boxes, 5 dull fuchsia boxes.
+faded plum boxes contain 2 striped turquoise boxes, 5 light gray boxes.
+clear beige boxes contain 4 faded orange boxes, 2 mirrored black boxes, 1 shiny red box, 1 dark teal box.
+faded black boxes contain 5 mirrored plum boxes, 5 muted plum boxes.
+pale olive boxes contain 4 muted yellow boxes, 5 mirrored maroon boxes.
+plaid black boxes contain 3 dark gray boxes.
+plaid fuchsia boxes contain 1 wavy beige box.
+shiny white boxes contain 3 posh orange boxes, 5 posh blue boxes, 4 faded white boxes, 1 wavy crimson box.
+shiny lime boxes contain 5 posh black boxes, 2 mirrored bronze boxes, 5 muted bronze boxes, 2 posh violet boxes.
+shiny magenta boxes contain 5 dark lime boxes.
+plaid tomato boxes contain 5 wavy cyan boxes, 3 clear brown boxes, 3 dark olive boxes, 4 vibrant white boxes.
+dark blue boxes contain 3 mirrored black boxes, 3 pale indigo boxes, 3 dim cyan boxes, 3 light olive boxes.
+muted lavender boxes contain 1 dotted purple box, 1 drab blue box, 5 mirrored bronze boxes, 3 striped violet boxes.
+faded silver boxes contain 2 dim orange boxes, 4 shiny chartreuse boxes, 2 drab blue boxes, 1 wavy violet box.
+shiny beige boxes contain 4 muted green boxes, 5 striped aqua boxes, 2 dim black boxes, 3 dull fuchsia boxes.
+vibrant indigo boxes contain 3 pale red boxes, 3 clear lime boxes, 4 vibrant cyan boxes, 2 pale tomato boxes.
+bright red boxes contain 2 mirrored lime boxes, 1 dim indigo box, 5 bright black boxes, 2 drab crimson boxes.
+light gray boxes contain no other boxes.
+dim orange boxes contain 4 clear chartreuse boxes, 4 striped tan boxes.
+dull plum boxes contain 4 faded aqua boxes, 3 pale salmon boxes, 1 posh gray box.
+dull crimson boxes contain 5 posh red boxes, 4 mirrored plum boxes, 1 dull fuchsia box.
+pale blue boxes contain 1 dotted red box, 5 muted chartreuse boxes, 3 clear green boxes, 1 wavy beige box.
+dotted cyan boxes contain 4 faded red boxes, 2 bright gold boxes.
+mirrored lavender boxes contain 1 vibrant white box, 1 mirrored plum box, 5 dotted black boxes, 5 bright orange boxes.
+mirrored tomato boxes contain 2 shiny chartreuse boxes, 2 shiny bronze boxes, 4 bright turquoise boxes.
+bright indigo boxes contain 3 striped orange boxes, 1 dotted lime box, 1 shiny magenta box, 2 light fuchsia boxes.
+drab brown boxes contain 5 plaid magenta boxes, 5 dim aqua boxes, 4 vibrant aqua boxes.
+posh turquoise boxes contain 3 bright tomato boxes, 4 striped tomato boxes, 5 dim turquoise boxes.
+shiny violet boxes contain 1 drab gold box, 5 plaid silver boxes, 3 vibrant magenta boxes.
+bright green boxes contain 5 dull aqua boxes, 2 pale tomato boxes, 1 posh lavender box, 1 dim tomato box.
+striped tomato boxes contain 4 bright salmon boxes.
+shiny black boxes contain 3 drab aqua boxes, 4 drab salmon boxes, 1 dim turquoise box.
+dotted silver boxes contain 4 plaid orange boxes, 3 mirrored tan boxes.
+shiny red boxes contain 4 dim lime boxes, 3 posh bronze boxes, 3 striped tomato boxes, 2 vibrant aqua boxes.
+dim green boxes contain 3 dotted blue boxes, 4 faded cyan boxes, 4 drab silver boxes, 5 clear blue boxes.
+dull teal boxes contain 4 striped orange boxes, 5 bright coral boxes, 4 bright gold boxes.
+posh beige boxes contain 4 dark indigo boxes.
+clear green boxes contain 3 drab blue boxes, 2 dark maroon boxes.
+faded teal boxes contain 4 mirrored maroon boxes, 3 clear cyan boxes, 4 plaid silver boxes.
+plaid maroon boxes contain 2 plaid brown boxes.
+light yellow boxes contain 3 dotted chartreuse boxes.
+dotted green boxes contain 1 clear olive box, 2 bright blue boxes, 3 striped indigo boxes, 3 dull indigo boxes.
+vibrant lavender boxes contain 4 clear tomato boxes, 1 posh tomato box, 4 drab bronze boxes.
+dull red boxes contain 1 dark red box, 4 bright black boxes.
+dark chartreuse boxes contain 2 clear turquoise boxes, 2 clear coral boxes, 2 vibrant magenta boxes.
+clear aqua boxes contain 3 mirrored lime boxes.
+posh white boxes contain 4 mirrored chartreuse boxes, 1 light purple box, 3 muted maroon boxes, 2 pale olive boxes.
+pale cyan boxes contain 3 plaid lime boxes, 1 drab salmon box.
+mirrored yellow boxes contain 4 light olive boxes.
+faded violet boxes contain 2 muted red boxes, 1 striped coral box, 1 dark chartreuse box, 3 vibrant aqua boxes.
+bright lime boxes contain 1 muted chartreuse box.
+dotted teal boxes contain 3 dark orange boxes.
+plaid beige boxes contain 4 drab chartreuse boxes, 5 clear orange boxes, 1 dim orange box, 4 dotted bronze boxes.
+muted violet boxes contain 5 striped crimson boxes, 3 dark gold boxes, 4 muted magenta boxes, 5 vibrant olive boxes.
+dotted turquoise boxes contain 1 drab olive box, 1 plaid turquoise box.
+dim yellow boxes contain 4 dotted blue boxes, 4 wavy teal boxes.
+light purple boxes contain 1 mirrored yellow box.
+wavy turquoise boxes contain 4 muted gold boxes, 3 wavy orange boxes, 3 clear tomato boxes, 1 light tan box.
+vibrant silver boxes contain 1 plaid red box, 2 clear turquoise boxes.
+faded brown boxes contain 5 faded gray boxes, 3 drab maroon boxes, 5 striped aqua boxes.
+posh indigo boxes contain 1 wavy green box, 5 dotted blue boxes.
+drab lavender boxes contain 3 vibrant indigo boxes, 2 faded black boxes, 4 dull coral boxes, 2 wavy lime boxes.
+vibrant blue boxes contain 5 posh purple boxes, 4 dark gold boxes, 2 mirrored lavender boxes.
+posh blue boxes contain 4 wavy bronze boxes, 5 dull chartreuse boxes, 1 muted teal box, 3 bright black boxes.
+posh aqua boxes contain 4 pale gold boxes, 2 faded white boxes.
+bright yellow boxes contain 1 wavy coral box, 2 drab turquoise boxes.
+wavy lavender boxes contain 2 faded red boxes, 4 faded cyan boxes.
+dotted aqua boxes contain 1 muted cyan box, 2 muted black boxes, 3 wavy chartreuse boxes, 1 shiny magenta box.
+vibrant white boxes contain 3 muted green boxes, 2 bright tomato boxes.
+posh yellow boxes contain 3 mirrored lime boxes, 5 dark fuchsia boxes, 1 posh red box, 5 plaid cyan boxes.
+clear gray boxes contain 4 wavy magenta boxes, 3 shiny orange boxes.
+clear fuchsia boxes contain 2 dull beige boxes, 5 striped turquoise boxes, 2 posh silver boxes.
+shiny tan boxes contain 1 drab orange box, 4 faded cyan boxes, 5 dark teal boxes.
+faded bronze boxes contain 2 shiny aqua boxes.
+pale indigo boxes contain 1 plaid turquoise box.
+faded tomato boxes contain 3 pale brown boxes.
+plaid indigo boxes contain 1 dull beige box.
+dark salmon boxes contain 3 wavy purple boxes, 3 dull indigo boxes, 4 dim blue boxes, 3 dull green boxes.
+bright tan boxes contain 2 posh bronze boxes.
+vibrant fuchsia boxes contain 4 striped olive boxes, 5 clear yellow boxes, 5 muted fuchsia boxes, 3 shiny plum boxes.
+dark gray boxes contain 3 light gray boxes.
+posh magenta boxes contain 5 bright blue boxes.
+mirrored bronze boxes contain 5 bright olive boxes, 4 light magenta boxes.
+posh cyan boxes contain 4 light indigo boxes, 2 dark aqua boxes, 5 mirrored lime boxes, 2 faded magenta boxes.
+light chartreuse boxes contain 4 dark indigo boxes, 2 wavy magenta boxes, 5 dim white boxes, 1 plaid bronze box.
+bright plum boxes contain 4 dotted lime boxes, 2 mirrored red boxes, 1 plaid plum box, 1 mirrored gold box.
+dark beige boxes contain 4 mirrored white boxes, 2 muted plum boxes, 5 mirrored lime boxes, 2 plaid teal boxes.
+light bronze boxes contain 1 muted black box.
+bright magenta boxes contain 3 striped lime boxes.
+dull green boxes contain 2 light purple boxes, 1 dull maroon box, 2 dotted violet boxes, 4 clear blue boxes.
+drab maroon boxes contain 3 bright tomato boxes.
+muted gray boxes contain 1 shiny plum box, 2 posh fuchsia boxes, 1 plaid black box, 2 dim black boxes.
+pale aqua boxes contain 5 mirrored plum boxes, 1 dark fuchsia box, 3 faded tomato boxes, 1 striped aqua box.
+plaid yellow boxes contain 2 plaid plum boxes.
+vibrant tan boxes contain 3 light gray boxes, 5 bright salmon boxes, 3 pale green boxes, 5 posh gray boxes.
+faded lavender boxes contain 2 shiny yellow boxes, 3 dotted black boxes, 4 dotted purple boxes.
+muted aqua boxes contain 3 mirrored blue boxes, 2 plaid salmon boxes.
+wavy silver boxes contain 3 posh lime boxes, 2 striped tan boxes.
+pale lime boxes contain 5 striped orange boxes, 4 plaid turquoise boxes, 1 dark lime box, 5 muted cyan boxes.
+dark bronze boxes contain 3 clear silver boxes, 5 faded tomato boxes, 5 light olive boxes, 4 bright fuchsia boxes.
+dull gray boxes contain 1 clear silver box, 1 light purple box.
+clear tomato boxes contain 3 wavy coral boxes, 2 dim orange boxes, 2 dim magenta boxes.
+dull chartreuse boxes contain 2 plaid teal boxes, 4 dotted purple boxes, 1 faded tomato box.
+vibrant gold boxes contain 2 striped aqua boxes, 5 vibrant cyan boxes, 2 dotted olive boxes, 2 clear olive boxes.
+wavy green boxes contain 5 dim lavender boxes.
+posh olive boxes contain 3 striped blue boxes, 4 striped beige boxes, 4 dim violet boxes, 4 muted blue boxes.
+vibrant brown boxes contain 5 light purple boxes, 1 bright orange box.
+faded yellow boxes contain 2 dark salmon boxes.
+vibrant teal boxes contain 5 vibrant brown boxes, 5 shiny indigo boxes.
+drab black boxes contain 4 bright magenta boxes, 1 shiny green box.
+mirrored black boxes contain 3 posh silver boxes.
+muted yellow boxes contain 1 clear orange box, 2 shiny gold boxes, 4 wavy purple boxes.
+posh silver boxes contain no other boxes.
+plaid coral boxes contain 2 mirrored lavender boxes, 5 drab lime boxes, 4 pale brown boxes, 4 dark maroon boxes.
+muted plum boxes contain no other boxes.
+pale silver boxes contain 2 dim brown boxes, 1 light aqua box, 4 shiny lavender boxes.
+dotted coral boxes contain 2 dotted bronze boxes, 1 clear violet box, 1 vibrant magenta box.
+drab indigo boxes contain 1 dotted crimson box.
+dim salmon boxes contain 2 clear green boxes, 4 muted chartreuse boxes.
+vibrant cyan boxes contain 4 posh magenta boxes, 4 clear violet boxes.
+muted olive boxes contain 5 bright salmon boxes, 2 dark silver boxes.
+drab blue boxes contain 2 shiny yellow boxes, 5 clear olive boxes.
+dark brown boxes contain 3 muted cyan boxes, 5 posh fuchsia boxes.
+dotted red boxes contain 3 posh gray boxes, 5 clear maroon boxes, 3 posh fuchsia boxes, 1 dark white box.
+light crimson boxes contain 2 dark chartreuse boxes.
+wavy chartreuse boxes contain 1 muted red box, 5 dull chartreuse boxes, 2 wavy bronze boxes, 1 posh bronze box.
+plaid lime boxes contain 3 pale white boxes, 2 dull chartreuse boxes, 3 plaid olive boxes, 1 vibrant cyan box.
+striped gray boxes contain 5 mirrored blue boxes, 3 dark turquoise boxes, 2 clear aqua boxes, 5 drab cyan boxes.
+dull cyan boxes contain no other boxes.
+dotted beige boxes contain 5 dull cyan boxes, 2 dull purple boxes, 4 mirrored white boxes, 3 vibrant olive boxes.
+pale turquoise boxes contain 5 pale beige boxes, 2 pale olive boxes, 2 wavy coral boxes, 5 light fuchsia boxes.
+muted tomato boxes contain 1 vibrant olive box, 1 bright purple box, 3 pale turquoise boxes, 3 striped coral boxes.
+pale white boxes contain 4 dull gold boxes, 5 wavy olive boxes, 4 faded red boxes, 2 plaid teal boxes.
+clear magenta boxes contain 4 dark violet boxes, 5 plaid chartreuse boxes, 3 vibrant yellow boxes.
+vibrant tomato boxes contain 2 posh lime boxes, 4 drab orange boxes, 1 striped turquoise box.
+striped green boxes contain 1 dim purple box, 3 dotted bronze boxes, 4 bright bronze boxes.
+wavy salmon boxes contain 1 shiny lime box.
+plaid purple boxes contain 1 muted tomato box, 2 shiny lavender boxes, 5 light olive boxes.
+clear tan boxes contain 2 striped plum boxes, 1 striped fuchsia box.
+dull coral boxes contain 5 bright orange boxes, 5 faded purple boxes, 5 plaid chartreuse boxes, 3 muted green boxes.
+light tomato boxes contain 4 faded tomato boxes, 1 clear chartreuse box, 2 plaid black boxes, 2 posh plum boxes.
+dotted lime boxes contain 3 bright lavender boxes.
+plaid blue boxes contain 4 plaid black boxes.
+dull silver boxes contain 1 wavy magenta box, 2 mirrored fuchsia boxes, 4 striped salmon boxes.
+dotted maroon boxes contain 3 dull cyan boxes, 5 plaid lavender boxes, 3 bright gray boxes.
+bright black boxes contain 4 mirrored plum boxes, 2 drab blue boxes, 3 light gray boxes, 1 posh coral box.
+pale salmon boxes contain 5 bright gray boxes.
+muted chartreuse boxes contain 1 mirrored lavender box.
+pale lavender boxes contain 4 dim black boxes.
+dull fuchsia boxes contain 1 bright olive box, 3 dull cyan boxes, 3 bright tomato boxes.
+posh fuchsia boxes contain 4 striped cyan boxes, 1 shiny purple box, 5 muted lavender boxes.
+dull tan boxes contain 2 light magenta boxes.
+mirrored olive boxes contain 5 clear maroon boxes, 3 bright cyan boxes, 2 vibrant plum boxes.
+plaid chartreuse boxes contain 2 pale coral boxes, 1 posh lime box, 5 light olive boxes, 2 bright orange boxes.
+muted teal boxes contain 3 plaid teal boxes.
+dim violet boxes contain 3 striped tomato boxes, 1 dotted fuchsia box.
+striped yellow boxes contain 2 mirrored brown boxes, 3 faded cyan boxes, 1 clear silver box, 5 wavy orange boxes.
+faded salmon boxes contain 5 striped coral boxes.
+striped turquoise boxes contain no other boxes.
+dim white boxes contain 5 clear coral boxes.
+dull violet boxes contain 4 striped violet boxes, 5 dotted olive boxes, 4 pale gold boxes, 2 vibrant olive boxes.
+posh plum boxes contain 2 bright orange boxes, 5 faded tomato boxes, 3 pale brown boxes, 1 posh silver box.
+wavy orange boxes contain 3 dull maroon boxes, 1 drab orange box, 4 posh plum boxes.
+dotted purple boxes contain 2 mirrored white boxes.
+dark indigo boxes contain 3 muted green boxes, 5 dark white boxes, 4 drab olive boxes, 5 vibrant tomato boxes.
+shiny silver boxes contain 2 pale green boxes.
+shiny crimson boxes contain 3 wavy chartreuse boxes, 2 wavy olive boxes.
+dull salmon boxes contain 5 plaid plum boxes.
+bright brown boxes contain 4 clear tan boxes.
+wavy aqua boxes contain 1 dotted tan box, 4 bright turquoise boxes, 1 wavy maroon box, 4 shiny cyan boxes.
+mirrored cyan boxes contain 1 pale green box, 5 plaid chartreuse boxes, 5 muted chartreuse boxes, 1 faded purple box.
+dark yellow boxes contain 5 mirrored crimson boxes, 2 shiny beige boxes, 5 mirrored brown boxes, 4 muted aqua boxes.
+faded gray boxes contain 5 wavy cyan boxes, 2 dim olive boxes, 5 wavy gray boxes.
+drab aqua boxes contain 3 shiny purple boxes, 2 dim gray boxes, 3 wavy cyan boxes.
+vibrant salmon boxes contain 2 light indigo boxes, 4 pale maroon boxes.
+drab yellow boxes contain 1 light purple box, 5 muted fuchsia boxes, 2 drab blue boxes, 4 muted green boxes.
+dark maroon boxes contain 4 posh coral boxes.
+drab orange boxes contain 4 bright tomato boxes, 4 faded purple boxes, 5 pale brown boxes.
+dim teal boxes contain 4 shiny gray boxes.
+dotted bronze boxes contain 2 drab blue boxes, 1 light magenta box.
+faded maroon boxes contain 5 wavy cyan boxes, 1 pale gold box.
+vibrant gray boxes contain 3 dull coral boxes, 4 faded lime boxes, 3 mirrored turquoise boxes.
+wavy yellow boxes contain 3 striped bronze boxes.
+mirrored white boxes contain no other boxes.
+pale chartreuse boxes contain 5 drab blue boxes, 3 bright black boxes, 1 mirrored lavender box, 4 dotted magenta boxes.
+posh crimson boxes contain 1 mirrored lavender box, 1 clear cyan box.
+dim coral boxes contain 2 posh brown boxes.
+striped crimson boxes contain 3 dim gray boxes, 1 light turquoise box, 3 wavy bronze boxes, 4 faded orange boxes.
+posh violet boxes contain 1 dark teal box, 4 posh red boxes, 3 vibrant lime boxes.
+light salmon boxes contain 3 plaid salmon boxes.
+plaid red boxes contain 2 dull lavender boxes, 1 posh plum box, 4 faded cyan boxes, 1 plaid turquoise box.
+pale maroon boxes contain 1 plaid turquoise box, 4 faded maroon boxes, 4 shiny yellow boxes, 1 pale purple box.
+striped magenta boxes contain 2 posh turquoise boxes, 5 wavy indigo boxes, 4 plaid tomato boxes, 3 dim lavender boxes.
+striped silver boxes contain no other boxes.
+striped gold boxes contain 5 bright brown boxes, 1 dotted crimson box, 2 bright olive boxes.
+clear turquoise boxes contain 3 wavy teal boxes, 2 muted red boxes.
+mirrored tan boxes contain 5 dark yellow boxes, 3 posh coral boxes.
+shiny blue boxes contain 2 dull olive boxes, 2 muted brown boxes.
+clear black boxes contain 2 wavy teal boxes, 5 plaid chartreuse boxes, 4 dull coral boxes, 5 dark yellow boxes.
+faded gold boxes contain 5 muted teal boxes, 3 bright white boxes, 4 striped tan boxes.
+drab tan boxes contain 1 faded black box, 2 clear olive boxes.
+dark cyan boxes contain 1 plaid black box, 1 muted aqua box, 5 bright fuchsia boxes.
+muted silver boxes contain 1 clear olive box, 5 striped indigo boxes.
+dim beige boxes contain 1 muted tomato box, 5 clear fuchsia boxes, 1 faded coral box.
+striped red boxes contain 3 plaid brown boxes, 4 posh black boxes, 2 dotted gray boxes.
+striped purple boxes contain 5 light lavender boxes, 2 dotted brown boxes, 1 dull olive box, 2 shiny aqua boxes.
+shiny orange boxes contain 3 mirrored brown boxes, 1 wavy bronze box, 5 vibrant aqua boxes.
+striped salmon boxes contain 4 bright silver boxes.
+shiny olive boxes contain 4 pale gold boxes, 5 drab indigo boxes, 3 mirrored salmon boxes, 2 muted gray boxes.
+pale bronze boxes contain 3 clear cyan boxes, 3 drab blue boxes, 5 drab bronze boxes, 4 shiny gray boxes.
+plaid aqua boxes contain 5 pale yellow boxes, 4 pale black boxes, 3 muted red boxes.
+faded coral boxes contain 3 dark bronze boxes, 5 striped silver boxes, 5 clear olive boxes, 2 wavy gray boxes.
+striped bronze boxes contain 4 posh orange boxes.
+bright violet boxes contain 5 light white boxes, 1 dull olive box, 5 drab fuchsia boxes, 3 dim chartreuse boxes.
+wavy bronze boxes contain 2 dark tomato boxes, 2 muted red boxes, 1 drab orange box.
+pale beige boxes contain 5 muted lavender boxes, 1 vibrant aqua box, 4 drab lime boxes.
+dim crimson boxes contain 4 plaid plum boxes.
+light silver boxes contain 3 shiny yellow boxes, 4 dull fuchsia boxes, 4 dark chartreuse boxes, 1 bright orange box.
+dark coral boxes contain 1 clear indigo box, 1 muted gold box, 5 pale lime boxes.
+striped plum boxes contain 5 plaid white boxes, 3 pale gold boxes, 3 pale yellow boxes, 2 dim orange boxes.
+light tan boxes contain 5 dark crimson boxes, 1 clear silver box, 2 striped tomato boxes, 1 vibrant magenta box.
+shiny brown boxes contain 4 bright bronze boxes.
+faded red boxes contain 2 dotted bronze boxes.
+dim gray boxes contain 1 pale gold box, 5 shiny orange boxes.
+mirrored plum boxes contain 2 muted plum boxes, 1 posh silver box.
+shiny yellow boxes contain 4 faded black boxes, 4 light olive boxes.
+posh bronze boxes contain 3 posh orange boxes.
+clear lime boxes contain 5 mirrored lavender boxes, 1 dark tomato box, 4 dim aqua boxes, 1 pale purple box.
+drab red boxes contain 3 dark tan boxes, 2 shiny maroon boxes, 2 mirrored purple boxes, 5 dotted orange boxes.
+dull purple boxes contain 1 striped yellow box, 3 faded cyan boxes, 5 pale red boxes, 4 plaid green boxes.
+muted magenta boxes contain 1 drab yellow box, 1 dark lavender box.
+dim fuchsia boxes contain 4 pale aqua boxes, 3 mirrored indigo boxes, 2 wavy lime boxes.
+muted black boxes contain 3 bright turquoise boxes, 3 plaid cyan boxes, 5 dim cyan boxes.
+dark lime boxes contain 1 posh orange box.
+drab bronze boxes contain 1 pale tomato box, 4 light purple boxes, 1 light olive box, 4 posh silver boxes.
+posh tan boxes contain 5 bright gold boxes.
+dim lavender boxes contain 1 mirrored white box, 4 posh lime boxes, 3 dark fuchsia boxes.
+dark fuchsia boxes contain no other boxes.
+muted maroon boxes contain 2 bright white boxes, 4 dark salmon boxes, 4 posh gray boxes, 4 posh plum boxes.
+dotted crimson boxes contain 2 plaid salmon boxes.
+drab olive boxes contain 2 dull lavender boxes, 3 dark tomato boxes.
+wavy crimson boxes contain 3 clear orange boxes, 5 dull maroon boxes.
+dark silver boxes contain 1 muted red box, 5 dim bronze boxes.
+dull magenta boxes contain 2 mirrored cyan boxes, 2 mirrored plum boxes, 1 drab olive box.
+pale magenta boxes contain 4 dark olive boxes, 1 wavy teal box.
+plaid crimson boxes contain 1 dim purple box, 1 shiny gold box, 5 shiny tan boxes, 2 striped silver boxes.
+vibrant magenta boxes contain 3 striped turquoise boxes.
+light brown boxes contain 2 clear magenta boxes, 2 light lime boxes.
+drab lime boxes contain 2 striped aqua boxes.
+light aqua boxes contain 2 dim orange boxes, 5 mirrored brown boxes, 4 vibrant tomato boxes.
+dotted white boxes contain 3 faded plum boxes, 1 striped lime box.
+muted orange boxes contain 4 clear purple boxes, 5 light indigo boxes, 1 plaid bronze box.
+dark turquoise boxes contain 2 clear cyan boxes.
+striped beige boxes contain 3 wavy yellow boxes, 2 clear brown boxes, 1 faded plum box, 2 dotted bronze boxes.
+bright chartreuse boxes contain 2 dim cyan boxes, 2 faded lavender boxes, 3 muted yellow boxes, 1 dotted turquoise box.
+bright beige boxes contain 3 vibrant silver boxes, 3 faded bronze boxes, 4 bright lime boxes, 5 plaid lavender boxes.
+pale orange boxes contain 1 striped tomato box, 3 pale brown boxes, 5 plaid bronze boxes, 4 dark salmon boxes.
+dim black boxes contain 4 striped turquoise boxes, 2 plaid chartreuse boxes, 5 posh red boxes, 1 bright tomato box.
+plaid olive boxes contain 5 dark indigo boxes, 1 dark teal box.
+plaid orange boxes contain 5 muted plum boxes, 4 dark tomato boxes, 5 dull crimson boxes.
+dark purple boxes contain 3 pale beige boxes, 4 pale gold boxes, 1 vibrant blue box.
+mirrored salmon boxes contain 3 plaid red boxes, 3 dark plum boxes.
+vibrant aqua boxes contain 3 clear maroon boxes, 1 striped silver box, 5 shiny gold boxes, 3 faded tomato boxes.
+dull lavender boxes contain 3 faded white boxes, 1 dim lavender box, 2 dull fuchsia boxes.
+posh green boxes contain 5 dim orange boxes.
+clear salmon boxes contain 4 bright black boxes, 5 dotted plum boxes, 2 striped tomato boxes.
+mirrored violet boxes contain 2 wavy black boxes, 5 dotted gold boxes, 3 posh brown boxes.
+faded magenta boxes contain 2 vibrant crimson boxes, 5 drab orange boxes, 1 dark gray box, 4 striped coral boxes.
+light plum boxes contain 4 muted plum boxes.
+dotted tan boxes contain 1 wavy gray box.
+dim tan boxes contain 5 mirrored bronze boxes, 3 drab olive boxes, 2 wavy olive boxes, 3 dark tan boxes.
+striped indigo boxes contain 2 drab green boxes, 1 light olive box, 5 bright orange boxes.
+vibrant orange boxes contain 4 dull fuchsia boxes, 1 shiny violet box.
+dim lime boxes contain 5 striped silver boxes.
+plaid gray boxes contain 4 dark tan boxes, 3 dark magenta boxes, 2 drab black boxes, 3 faded bronze boxes.
+faded chartreuse boxes contain 2 clear beige boxes, 2 light beige boxes.
+striped orange boxes contain 5 mirrored coral boxes, 4 light gray boxes, 2 mirrored white boxes.
+dim silver boxes contain 3 posh coral boxes, 4 dotted bronze boxes, 4 muted yellow boxes, 1 faded gray box.
+dotted gold boxes contain 1 posh gray box.
+dotted olive boxes contain 5 faded aqua boxes, 4 faded brown boxes, 2 dim salmon boxes.
+posh maroon boxes contain 4 striped aqua boxes, 1 wavy yellow box, 1 mirrored crimson box.
+dark orange boxes contain 3 mirrored fuchsia boxes, 1 light magenta box, 2 muted bronze boxes, 2 wavy blue boxes.
+pale purple boxes contain 4 dotted blue boxes.
+muted indigo boxes contain 1 dark fuchsia box, 2 posh fuchsia boxes, 5 plaid turquoise boxes, 2 mirrored cyan boxes.
+faded tan boxes contain 1 drab fuchsia box, 3 dark beige boxes.
+bright cyan boxes contain 3 dotted blue boxes, 5 muted plum boxes, 2 vibrant crimson boxes, 3 dark gold boxes.
+mirrored gray boxes contain 3 pale lavender boxes, 2 shiny blue boxes, 4 dark salmon boxes.
+dotted violet boxes contain 4 posh red boxes, 4 bright tomato boxes, 3 muted plum boxes.
+pale tan boxes contain 2 clear crimson boxes, 4 drab lime boxes.
+dull tomato boxes contain 2 drab green boxes, 5 dark crimson boxes.
+wavy coral boxes contain 3 light aqua boxes, 3 bright blue boxes, 1 posh gray box.
+dull aqua boxes contain 4 drab brown boxes.
+clear white boxes contain 5 dark indigo boxes, 5 dark maroon boxes, 1 striped orange box, 2 shiny gold boxes.
+dotted magenta boxes contain 3 light olive boxes, 4 dark indigo boxes, 3 dotted blue boxes, 3 striped lime boxes.
+plaid cyan boxes contain 3 wavy olive boxes, 5 dim black boxes, 4 dotted bronze boxes, 2 striped tomato boxes.
+muted lime boxes contain 3 pale turquoise boxes, 1 posh white box.
+wavy teal boxes contain 2 dim orange boxes.
+muted gold boxes contain 1 pale aqua box, 4 shiny beige boxes, 2 light olive boxes.
+wavy magenta boxes contain 2 wavy purple boxes, 5 wavy tomato boxes.
+dim maroon boxes contain 5 plaid red boxes.
+drab green boxes contain 5 light gray boxes, 4 clear maroon boxes, 2 dark indigo boxes.
+plaid lavender boxes contain 5 drab blue boxes.
+light white boxes contain 4 light tan boxes.
+wavy gray boxes contain 1 posh coral box.
+mirrored teal boxes contain 5 clear brown boxes, 4 bright magenta boxes, 1 drab brown box, 2 dull gold boxes.
+light black boxes contain 1 posh coral box, 4 dotted black boxes, 4 posh lime boxes, 4 bright blue boxes.
+shiny gray boxes contain 2 dotted blue boxes, 5 striped turquoise boxes, 4 pale aqua boxes, 1 dim black box.
+posh lavender boxes contain 1 wavy yellow box, 2 dotted tan boxes, 3 dull lavender boxes.
+faded beige boxes contain 5 posh brown boxes, 1 vibrant indigo box, 2 light cyan boxes, 1 clear aqua box.
+clear lavender boxes contain 1 dull salmon box.
+mirrored coral boxes contain 2 light olive boxes, 5 clear olive boxes, 2 pale tomato boxes.
+bright white boxes contain 5 wavy yellow boxes, 5 wavy bronze boxes, 1 wavy olive box, 5 muted red boxes.
+dark lavender boxes contain 5 pale tomato boxes, 4 faded white boxes.
+light red boxes contain 3 posh turquoise boxes, 3 dull indigo boxes, 3 wavy silver boxes, 2 drab salmon boxes.
+vibrant violet boxes contain 1 shiny orange box.
+clear gold boxes contain 1 drab magenta box, 4 plaid tan boxes, 2 vibrant yellow boxes.
+striped white boxes contain 5 light salmon boxes, 1 mirrored purple box.
+vibrant maroon boxes contain 4 striped coral boxes.
+bright olive boxes contain 2 light gray boxes, 1 posh silver box, 2 bright orange boxes, 1 dark fuchsia box.
+mirrored gold boxes contain 1 drab black box.
+shiny green boxes contain 4 posh purple boxes.
+dim aqua boxes contain 4 pale gold boxes, 1 dull coral box, 3 faded teal boxes, 2 pale yellow boxes.
+dotted tomato boxes contain 4 dull salmon boxes.
+faded olive boxes contain 5 muted green boxes, 1 drab crimson box.
+striped teal boxes contain 4 dotted green boxes, 5 muted aqua boxes.
+pale crimson boxes contain 1 striped lime box, 4 mirrored tan boxes, 2 clear lavender boxes.
+shiny salmon boxes contain 2 muted salmon boxes, 5 shiny cyan boxes, 4 faded red boxes, 5 light tan boxes.
+plaid brown boxes contain 5 pale orange boxes.
+posh gold boxes contain 3 shiny crimson boxes.
+wavy violet boxes contain 5 muted olive boxes.
+drab white boxes contain 3 posh brown boxes, 2 striped cyan boxes, 1 clear coral box.
+light magenta boxes contain 2 clear maroon boxes, 3 light gray boxes, 2 dotted black boxes, 4 bright fuchsia boxes.
+bright aqua boxes contain 4 plaid cyan boxes, 2 clear black boxes.
+muted green boxes contain 5 striped silver boxes, 5 bright orange boxes.
+dim cyan boxes contain 5 plaid brown boxes, 3 striped tan boxes.
+vibrant olive boxes contain 5 dark yellow boxes.
+dark tan boxes contain 1 muted lavender box, 2 mirrored turquoise boxes, 1 dim lime box, 1 dull olive box.
+mirrored brown boxes contain 3 pale brown boxes.
+mirrored aqua boxes contain 1 mirrored plum box, 3 dark maroon boxes.
+clear cyan boxes contain 1 dull cyan box, 2 dark tomato boxes, 4 pale brown boxes.
+dull yellow boxes contain 4 wavy coral boxes, 4 striped tan boxes, 3 muted chartreuse boxes.
+mirrored maroon boxes contain 3 plaid tomato boxes, 4 shiny purple boxes, 1 plaid lavender box, 5 light gray boxes.
+drab coral boxes contain 2 dark turquoise boxes, 2 clear crimson boxes, 4 drab lime boxes, 5 dull crimson boxes.
+muted turquoise boxes contain 5 posh purple boxes, 2 dim magenta boxes.
+dull turquoise boxes contain 4 striped aqua boxes, 2 light fuchsia boxes, 3 pale turquoise boxes, 2 faded maroon boxes.
+bright maroon boxes contain 1 muted red box, 3 faded black boxes.
+wavy indigo boxes contain 3 shiny beige boxes, 5 dim lavender boxes, 2 striped tan boxes.
+pale red boxes contain 1 vibrant brown box, 3 faded black boxes, 4 posh turquoise boxes, 5 plaid brown boxes.
+drab teal boxes contain 1 faded purple box, 2 mirrored blue boxes, 2 vibrant tomato boxes, 1 pale purple box.
+faded purple boxes contain 1 vibrant white box.
+striped maroon boxes contain 1 mirrored brown box, 1 shiny black box, 5 dotted lime boxes.
+dotted chartreuse boxes contain 3 dim blue boxes.
+posh black boxes contain 3 light aqua boxes, 5 bright orange boxes, 1 plaid plum box, 5 plaid fuchsia boxes.
+pale gold boxes contain 1 faded tomato box, 2 dark tomato boxes, 3 dotted blue boxes.
+muted brown boxes contain 1 plaid brown box.
+vibrant purple boxes contain 1 shiny gray box, 5 dull green boxes.
+mirrored purple boxes contain 1 bright gray box, 2 plaid plum boxes, 5 dotted chartreuse boxes, 2 posh lime boxes.
+bright coral boxes contain 3 dim blue boxes.
+dark magenta boxes contain 4 muted maroon boxes, 2 dark olive boxes, 1 dull olive box.
+pale brown boxes contain 2 faded purple boxes, 1 muted green box, 3 dark fuchsia boxes.
+drab gold boxes contain 3 posh bronze boxes, 2 plaid tomato boxes.
+pale teal boxes contain 1 clear turquoise box, 4 muted yellow boxes, 1 posh tomato box, 3 vibrant orange boxes.
+vibrant black boxes contain 1 faded tomato box, 5 dim white boxes, 2 drab aqua boxes, 1 vibrant silver box.
+dull black boxes contain 3 pale yellow boxes, 4 clear aqua boxes, 1 shiny yellow box, 3 faded maroon boxes.
+drab tomato boxes contain 2 dim purple boxes, 5 plaid fuchsia boxes.
+bright blue boxes contain 5 posh silver boxes, 4 dull cyan boxes, 4 light olive boxes, 1 mirrored white box.
+muted crimson boxes contain 3 bright orange boxes, 1 pale tomato box, 3 posh yellow boxes, 4 shiny purple boxes.
+shiny plum boxes contain 1 dim turquoise box.
+clear maroon boxes contain 1 posh red box, 2 light olive boxes, 1 dotted purple box.
+drab chartreuse boxes contain 4 dotted green boxes, 1 dark red box.
+dull brown boxes contain 5 dim lavender boxes, 4 bright tomato boxes, 5 drab crimson boxes, 1 vibrant tomato box.
+wavy purple boxes contain 4 dim lavender boxes, 2 plaid plum boxes, 2 dim lime boxes, 2 striped cyan boxes.
+vibrant coral boxes contain 1 striped crimson box, 3 drab cyan boxes, 5 vibrant yellow boxes, 2 dotted teal boxes.
+clear crimson boxes contain 4 dotted purple boxes, 5 faded cyan boxes.
+clear coral boxes contain 4 clear chartreuse boxes, 2 bright olive boxes.
+light cyan boxes contain 3 shiny violet boxes, 3 dotted blue boxes, 3 drab beige boxes.
+light fuchsia boxes contain 2 plaid lavender boxes, 4 dull green boxes, 2 plaid salmon boxes.
+dull bronze boxes contain 3 bright magenta boxes, 1 bright black box, 2 wavy lime boxes.
+light gold boxes contain 5 bright indigo boxes.
+drab magenta boxes contain 5 faded fuchsia boxes, 2 dim black boxes, 5 dim crimson boxes, 5 dotted fuchsia boxes.
+mirrored lime boxes contain 2 mirrored white boxes, 1 shiny gray box.
+dim olive boxes contain 4 bright blue boxes, 1 faded tomato box.
+striped tan boxes contain 4 dark tomato boxes, 4 mirrored coral boxes, 2 mirrored lavender boxes.
+muted coral boxes contain 4 pale salmon boxes, 3 faded purple boxes.
+striped violet boxes contain 4 dark gray boxes, 3 posh coral boxes, 2 striped turquoise boxes, 4 bright fuchsia boxes.
+clear plum boxes contain 3 bright cyan boxes, 1 drab salmon box, 2 vibrant brown boxes.
+clear brown boxes contain 1 mirrored plum box.
+light indigo boxes contain 4 drab blue boxes, 5 mirrored chartreuse boxes, 2 muted red boxes, 2 dark beige boxes.
+dim purple boxes contain 4 wavy teal boxes.
+clear yellow boxes contain 4 clear maroon boxes, 3 bright olive boxes, 5 shiny gray boxes, 2 bright orange boxes.
+pale tomato boxes contain 2 dotted violet boxes, 2 dark teal boxes.
+bright teal boxes contain 2 shiny maroon boxes, 2 muted indigo boxes.
+pale plum boxes contain 5 posh gray boxes, 3 shiny indigo boxes, 3 wavy olive boxes, 1 pale white box.
+dark teal boxes contain 3 muted plum boxes, 4 faded plum boxes, 1 wavy bronze box.
+vibrant crimson boxes contain 5 dark tomato boxes, 2 dark white boxes, 5 posh red boxes.
+shiny aqua boxes contain 1 pale coral box.
+dim chartreuse boxes contain 2 wavy teal boxes, 5 mirrored black boxes, 5 mirrored bronze boxes, 4 muted lavender boxes.
+drab beige boxes contain 2 faded coral boxes, 5 muted tan boxes, 5 plaid cyan boxes.
+bright purple boxes contain 4 muted red boxes, 5 wavy beige boxes, 4 clear coral boxes.
+striped black boxes contain 3 light red boxes, 2 plaid chartreuse boxes.
+striped chartreuse boxes contain 2 dotted gray boxes, 2 wavy olive boxes, 1 muted lavender box.
+dull gold boxes contain 5 wavy olive boxes, 2 posh plum boxes, 4 shiny gold boxes.
+striped lavender boxes contain 5 dim teal boxes, 3 light blue boxes.
+striped lime boxes contain 4 light black boxes, 5 striped turquoise boxes, 5 wavy cyan boxes.

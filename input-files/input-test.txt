@@ -1,0 +1,10 @@
+light red boxes contain 1 bright white box, 2 muted yellow boxes.
+dark orange boxes contain 3 bright white boxes, 4 muted yellow boxes.
+bright white boxes contain 1 shiny gold box.
+muted yellow boxes contain 2 shiny gold boxes, 9 faded blue boxes.
+shiny gold boxes contain 1 dark olive box, 2 vibrant plum boxes.
+dark olive boxes contain 3 faded blue boxes, 4 dotted black boxes, 4 test black boxes.
+test black boxes contain 5 faded blue boxes, 6 dotted black boxes.
+vibrant plum boxes contain 5 faded blue boxes, 6 dotted black boxes.
+faded blue boxes contain no other boxes.
+dotted black boxes contain no other boxes.
